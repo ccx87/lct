@@ -1,0 +1,1571 @@
+
+/* --- */
+.img-files-bg {
+	display:inline-block;
+	background-size: 100%;
+	background: url(../img/files.png);
+	background-repeat: no-repeat;
+}
+/* icons */
+.icons {
+	vertical-align: top;
+	display:inline-block;
+	background: url(../img/icons.png);
+	background-repeat: no-repeat;
+}
+.icons-local-material {
+	display:inline-block;
+	background: url(../img/icons-local-material.png);
+	background-repeat: no-repeat;
+}
+.icons-files {
+	display:inline-block;
+	background: url(../img/icons-files.png);
+	background-repeat: no-repeat;
+}
+.icons-login {
+	background: url(../img/icons-login.png) no-repeat;
+	display: inline-block;
+	background-repeat: no-repeat;
+}
+.icons-scan {
+	background: url(../img/scan-icons.png) no-repeat;
+	display: inline-block;
+	background-repeat: no-repeat;
+}
+.loading-gif {
+	background: url(../img/loading5.gif) no-repeat;
+	display: inline-block;
+	background-repeat: no-repeat;
+}
+.friend-list-default-bg {
+	background: url(../img/friend-default.png) no-repeat;
+	display: inline-block;
+	background-repeat: no-repeat;
+}
+.data-default-bg{
+	background: url(../img/data-default.png) no-repeat;
+	display: inline-block;
+	background-repeat: no-repeat;
+}
+.chat-default-bg{
+	width: 275px;
+	height: 275px;
+	background: url(../img/chat-default.png) no-repeat;
+	display: inline-block;
+	background-repeat: no-repeat;
+}
+.shitu-icon{
+	height: 30px;
+    width: 30px;
+	background: url(../img/search.png) no-repeat;
+	display: inline-block;
+}
+.select-no{
+	height: 20px;
+    width: 20px;
+    background-position: -80px 0;
+    display: inline-block;
+}
+.select-prob{
+	height: 20px;
+    width: 20px;
+    background-position: -82px -40px;
+    display: inline-block;
+    cursor: pointer;
+    vertical-align: bottom;
+}
+.select-question {
+    background-position: -80px -80px;
+    display: inline-block;
+    cursor: pointer;
+}
+.openFile{
+	height: 24px;
+	width: 40px;
+	background-position: 0 -324px;
+	float: left;
+}
+.openFileClick{
+	height: 20px;
+	width: 40px;
+	background-position: 0 -304px;
+	float: left;
+}
+.select-yes{
+	height: 20px;
+    width: 20px;
+    background-position: -80px -20px;
+    display: inline-block;
+}
+.icons-6 {
+	width: 6px;
+	height: 6px;
+}
+.icons-8 {
+	width: 8px;
+	height: 8px;
+}
+.icons-9 {
+	width: 10px;
+	height: 10px;
+}
+.icons-10 {
+	width: 10px;
+	height: 10px;
+}
+.icons-14 {
+	width: 14px;
+	height: 14px;
+}
+.icons-16 {
+	width: 16px;
+	height: 16px;
+}
+.icons-18, .fa {
+	width: 20px;
+	height: 20px;
+}
+.icons-20 {
+	width: 20px;
+	height: 20px;
+}
+.icons-24 {
+	width: 24px;
+	height: 24px;
+}
+.icons-25 {
+	width: 25px;
+	height: 25px;
+}
+.icons-26 {
+	width: 26px;
+	height: 26px;
+}
+.icons-30 {
+	width: 30px;
+	height: 26px;
+}
+.icons-36 {
+	width: 36px;
+	height: 36px;
+}
+.icons-40 {
+	width: 40px;
+	height: 40px;
+}
+.icons-50 {
+	width: 50px;
+	height: 50px;
+}
+.icons-60 {
+	width: 60px;
+	height: 60px;
+}
+.icons-80 {
+	width: 80px;
+	height: 80px;
+}
+.icons-logo-150 {
+	width: 150px;
+	height: 55px;
+}
+.icons-300 {
+	width: 300px;
+	height: 90px;
+}
+
+/* login */
+.close-bg {
+	background-position: -4px -4px;
+}
+.icons-login.close-bg:hover {
+	background-position: -164px -4px;
+}
+.close-dialog-bg {
+	background-position: 0 -620px;
+}
+a:hover .close-dialog-bg, a.close-dialog-bg:hover {
+	background-position: -40px -620px;
+}
+.close-dialog-bg2 {
+	background-position: -160 -80px;
+}
+a:hover .close-dialog-bg2, a.close-dialog-bg2:hover {
+	background-position: -140px -80px;
+}
+.check-bg {
+	margin-right: 5px;
+	background-position: 0 -40px;
+}
+.checked-bg {
+	margin-right: 5px;
+	background-position: -20px -40px;
+}
+.sina-bg {
+	background-position: -40px 0;
+}
+.sina-bg:hover {
+	background-position: -200px 0;
+}
+.qq-bg {
+	background-position: -80px 0;
+}
+.qq-bg:hover {
+	background-position: -240px 0;
+}
+.weixin-bg {
+	background-position: -120px 0;
+}
+.weixin-bg:hover {
+	background-position: -280px 0;
+}
+.ok-alert-bg {
+	background-position: -60px -170px;
+}
+.mark-alert-bg {
+	background-position: -60px -210px;
+}
+.error-alert-bg {
+	background-position: -100px -170px;
+}
+
+/* font_assistant */
+.no-check-bg {
+	background-position: -460px 0;
+}
+.af-icon {
+    background-position: 0 -200px;
+}
+a:hover .af-icon {
+    background-position: -20px -200px;
+}
+.cf-icon {
+    background-position: 0 -180px;
+}
+a:hover .cf-icon {
+    background-position: -20px -180px;
+}
+.sf-icon {
+    background-position: 0 -20px;
+}
+a:hover .sf-icon {
+    background-position: -20px -20px;
+}
+.df-icon {
+    background-position: 0 0;
+}
+a:hover .df-icon {
+    background-position: -20px 0;
+}
+.search-bg {
+	background-position: 0 -100px;
+}
+body:not(.disable-hover) a:hover .search-bg {
+	background-position: -20px -100px;
+}
+.fn-collect {
+	background-position: 0 -39px;
+}
+a:hover i.fn-collect, .active i.fn-collect {
+	background-position: -20px -39px;
+}
+.fn-collected {
+	background-position: 0 -60px;
+}
+.fn-postion {
+	background-position: 0 -80px;
+}
+.fn-all-bg {
+	background-position: 0 -800px;
+}
+a:hover i.fn-all-bg,
+.active i.fn-all-bg {
+	background-position: -20px -800px;
+}
+a:hover i.fn-postion,
+li:hover .fn-postion {
+	background-position: -20px -80px;
+}
+.fn-addRender {
+	background-position: 0 -320px;
+}
+a:hover i.fn-addRender {
+	background-position: -20px -320px;
+}
+.btn-installation {
+	background-position: 0 -141px;
+}
+a:hover .btn-installation,
+.active .btn-installation {
+	background-position: -20px -141px;
+}
+.btn-installation-bg {
+	background-position: -20px -300px;
+}
+a:hover .btn-installation-bg,
+.abtn:hover .btn-installation-bg {
+	background-position: -40px -300px;
+}
+.btn-download {
+	background-position: 0 0;
+}
+.disabled .btn-download {
+	background-position: -40px 0;
+}
+a:not(.disabled):hover .btn-download,
+.abtn:not('.disabled'):hover .btn-download {
+	background-position: -20px 0;
+}
+.btn-uninstall {
+	background-position: 0 -121px;
+}
+a:hover .btn-uninstall, .abtn:hover .btn-uninstall {
+	background-position: -20px -121px;
+}
+.to-folder {
+	background-position: 0 -160px;
+}
+a:hover .to-folder {
+	background-position: -20px -160px;
+}
+.fa-all {
+	background-position: 0 -340px;
+}
+a:hover .fa-all, .active .fa-all {
+	background-position: -20px -340px;
+}
+.fa-uninstall {
+	background-position: 0 -360px;
+}
+a:hover .fa-uninstall, .active .fa-uninstall {
+	background-position: -20px -360px;
+}
+.fa-download-manager {
+	background-position: 0 -380px;
+}
+a:hover .fa-download-manager, .active .fa-download-manager {
+	background-position: -20px -380px;
+}
+.fa-auto-fill {
+	background-position: 0 -420px;
+}
+a:hover .fa-auto-fill, .active .fa-auto-fill {
+	background-position: -20px -420px;
+}
+.fa-history-record {
+	background-position: 0 -640px;
+}
+a:hover .fa-history-record {
+	background-position: -20px -640px;
+}
+.fa-key-package {
+	background-position: 0 -440px;
+}
+a:hover .fa-key-package, .active .fa-key-package {
+	background-position: -20px -440px;
+}
+.fa-font-found {
+	background-position: 0 -460px;
+}
+a:hover .fa-font-found, .active .fa-font-found {
+	background-position: -20px -460px;
+}
+.fa-font-new {
+	background-position: 0 -480px;
+}
+a:hover .fa-font-new, .active .fa-font-new {
+	background-position: -20px -480px;
+}
+.fa-like-font, .fa-cf, .fa-my-font {
+	background-position: 0 -240px;
+}
+a:hover .fa-like-font,
+a:hover .fa-cf,
+a:hover .fa-my-font,
+.active .fa-like-font,
+.active .fa-cf,
+.active .fa-my-font {
+	background-position: -20px -240px;
+}
+.single-font-list li:hover .fa-like-font {
+	background-position: -20px -240px;
+}
+.csf-bg {
+	background-position: 0 -400px;
+}
+.csf-bg:hover {
+	background-position: -20px -400px;
+}
+.fn-check {
+	background-position: -40px -562px;
+}
+.fn-checked {
+	background-position: -40px -582px;
+}
+.fn-checked2 {
+	background-position: -40px -482px;
+}
+.checked .fn-check, .checked.fn-check {
+	background-position: -40px -482px;
+}
+.uncheck .fn-check, .uncheck.fn-check {
+	background-position: -40px -562px;
+}
+.all-start-bg {
+	background-position: 0 -520px;
+}
+a:hover .all-start-bg {
+	background-position: -20px -520px;
+}
+.all-pause-bg {
+	background-position: 0 -540px;
+}
+a:hover .all-pause-bg {
+	background-position: -20px -540px;
+}
+.clear-bg {
+	background-position: 0 -500px;
+}
+a:hover .clear-bg,
+li:hover .clear-bg {
+	background-position: -20px -500px;
+}
+li.msg-disabled a:hover .clear-bg {
+	background-position: 0 -500px;
+}
+.d-queue-bg {
+	background-position: -40px -340px;
+}
+.d-ing-bg {
+	background-position: -40px -360px;
+}
+.d-paused-bg {
+	background-position: -40px -380px;
+}
+.d-failed-bg {
+	background-position: -40px -400px;
+}
+.d-doubt-bg {
+	margin-left: 5px;
+	background-position: -40px -420px;
+}
+.create-single-font-bg {
+	background-position: 0 -200px;
+}
+.create-abtn:hover .create-single-font-bg {
+	background-position: -20px -200px;
+}
+.add-csfl-bg {
+	background-position: 0px -700px;
+}
+a:hover .add-csfl-bg {
+	background-position: -20px -700px;
+}
+.drag-bg-1 {
+	background-position: -60px -90px;
+}
+.mode-2-upload-opt .drag-bg-1 {
+    background-position: -60px -250px;
+}
+.drag-bg-2 {
+	background-position: -100px -90px;
+}
+.mode-2-upload-opt .drag-bg-2 {
+    background-position: -100px -250px;
+}
+.drag-bg-3 {
+	background-position: -100px -130px;
+}
+.mode-2-upload-opt .drag-bg-3 {
+    background-position: -100px -290px;
+}
+.drag-bg-4 {
+	background-position: -60px -130px
+}
+.mode-2-upload-opt .drag-bg-4 {
+    background-position: -60px -290px;
+}
+.drag-other-bg {
+	width: 300px;
+	height: 152px;
+	background-position: -150px -290px;
+}
+.install-all-bg {
+	background-position: -20px -300px;
+}
+.all-key-package {
+	background-position: -40px -440px;
+}
+.ok-alert-bg {
+	background-position: -60px -170px;
+}
+.error-alert-bg {
+	background-position: -100px -170px;
+}
+.add-single-font {
+	background-position: 0 -262px;
+}
+.create-user-bg {
+	background-position: 0 -302px;
+}
+.pn-prev-bg {
+	background-position: -60px 0;
+}
+a:hover .pn-prev-bg {
+	background-position: -90px 0;
+}
+.pn-next-bg {
+	background-position: -60px -26px;
+}
+a:hover .pn-next-bg {
+	background-position: -90px -26px;
+}
+.ranking-download-bg {
+	background-position: -150px 0;
+}
+.downloan-btn-bg {
+	background-position: -100px -53px;
+}
+.ranking-up-bg {
+	background-position: 0 -220px;
+}
+.ranking-down-bg {
+	background-position: -20px -220px;
+}
+.ranking-new-bg {
+	background-position: -40px -220px;
+}
+.ranking-collect-bg {
+	background-position: -150px -200px;
+}
+.ranking-new-font-bg {
+	background-position: -150px -100px;
+}
+.font-missing-bg {
+	background-position: -40px -660px;
+}
+.font-install-bg {
+	background-position: -40px -640px;
+}
+.font-open-bg {
+	background-position: 0 -680px;
+}
+.font-download-only-bg {
+	background-position: -40px -60px;
+}
+.submenu-list-bg {
+	background-position: 0 -560px;
+}
+.open-info-bg {
+	margin-right: 10px;
+	position: relative;
+	background-position: 0px -720px;
+	-webkit-transition: all .25s ease 0s;
+	-moz-transition: all .25s ease 0s;
+	-o-transition: all .25s ease 0s;
+	transition: all .25s ease 0s;
+}
+.open-info-bg.rotate-90-bg {
+	/*background-position: -10px -720px;*/
+}
+.tag-active-bg {
+	background-position: -40px -680px;
+}
+.loading-ok-bg {
+	background-position: -40px -640px;
+}
+.loading-ok-red-bg {
+	background-position: -60px -680px;
+}
+.open-file-bg {
+	background-position: 0 -80px;
+}
+.open-file-bg:hover {
+	background-position: -20px -80px;
+}
+.open-file-unfind-bg {
+	background-position: 0 -820px;
+}
+.open-file-unfind-bg:hover {
+	background-position: -20px -820px;
+}
+.font-undownload-bg {
+	background-position: -40px -620px;
+}
+.font-findnew-bg {
+	background-position: -60px -540px;
+}
+.font-go-baidu-bg {
+	background-position: -20px -680px;
+}
+.btn-refresh {
+	background-position: 0 -742px;
+}
+a:hover .btn-refresh {
+	background-position: -20px -742px;
+}
+.nav-refresh-bg {
+	background-position: 0 -740px;
+}
+.fn-refresh-bg,
+body:not(.disable-hover) .info-refresh:hover .nav-refresh-bg,
+li:hover .nav-refresh-bg {
+	background-position: -20px -740px;
+}
+.local-font-bg {
+	background-position: -20px -720px;
+}
+.yun-font-bg {
+	background-position: -40px -720px;
+}
+.ttf-type-bg {
+    background-position: -40px -260px;
+}
+.otf-type-bg {
+    background-position: -40px -280px;
+}
+.cmyk-mode-bg {
+	background-position: 0 -780px;
+}
+.rgb-mode-bg {
+	background-position: -20px -780px;
+}
+.font-not-found-bg {
+	background-position: -60px -660px;
+}
+.set-back-bg {
+	background-position: -60px 0;
+}
+.set-back-bg:hover {
+	background-position: -90px 0;
+}
+.installed-font-bg {
+	background-position: -40px -780px;
+}
+.uninstall-font-bg {
+	background-position: -40px -800px;
+}
+.drop-down-bg {
+	background-position: -20px -580px;
+}
+.selected .drop-down-bg {
+	background-position: -60px -580px;
+}
+.sort-select-bg {
+	background-position: -60px -640px;
+}
+.sort-list-bg {
+	background-position: 0 -760px
+}
+.sort-fb:hover .sort-list-bg {
+	background-position: -20px -760px
+}
+.sort-list-bg2 {
+	background-position: 0 -200px
+}
+body:not(.disable-hover) .sort-fb:hover .sort-list-bg2 {
+	background-position: -20px -200px
+}
+.db .prev {
+	background-position: -60px -700px
+}
+body:not(.disable-hover) .db .prev:hover {
+	background-position: -60px -720px
+}
+.db .next {
+	background-position: -60px -740px
+}
+body:not(.disable-hover) .db .next:hover {
+	background-position: -60px -760px
+}
+.invalid-color-bg {
+	background-position: -60px -780px
+}
+.help-question {
+	background-position: -40px -420px;
+}
+.font-size-bg {
+	background-position: -60px -560px;
+}
+
+/*icons-local-material*/
+.lm-msg-bg {
+	background-position: 0 -240px;
+}
+.lm-tit-bg {
+	background-position: -10px -280px;
+}
+.lm-file1-bg {
+	background-position: -160px 0;
+}
+.lm-file2-bg {
+	background-position: -160px -40px;
+}
+.lm-file3-bg {
+	background-position: -160px -80px;
+}
+.lm-file4-bg {
+	background-position: -160px -120px;
+}
+.lm-plate0-bg:not(.scaning) {
+	background-position: -320px -240px;
+}
+.lm-plate1-bg:not(.scaning) {
+	background-position: -320px -280px;
+}
+.lm-plate2-bg {
+	background-position: -160px -160px;
+}
+.lm-plate3-bg {
+	background-position: -160px -200px;
+}
+.lm-plate4-bg {
+    background-position: -20px -240px;
+}
+.lm-plate5-bg {
+    background-position: -20px -260px;
+}
+.lm-plate6-bg {
+    background-position: -160px -360px;
+}
+.lm-plate7-bg {
+    background-position: -320px -320px;
+}
+/* keyframes */
+@keyframes plate0{
+    0%{
+        background-position: -160px -240px;
+    }
+    20%{
+		background-position: -160px -240px;
+    }
+    40%{
+		background-position: -200px -240px;
+    }
+    60%{
+        background-position: -240px -240px;
+    }
+    80%{
+		background-position: -280px -240px;
+    }
+    100%{
+        background-position: -320px -240px;
+    }
+}
+@-webkit-keyframes plate0 {
+    0%{
+        background-position: -160px -240px;
+    }
+    20%{
+		background-position: -160px -240px;
+    }
+    40%{
+		background-position: -200px -240px;
+    }
+    60%{
+        background-position: -240px -240px;
+    }
+    80%{
+		background-position: -280px -240px;
+    }
+    100%{
+        background-position: -320px -240px;
+    }
+}
+@keyframes plate1 {
+    0%{
+        background-position: -160px -280px;
+    }
+    20%{
+		background-position: -160px -280px;
+    }
+    40%{
+		background-position: -200px -280px;
+    }
+    60%{
+        background-position: -240px -280px;
+    }
+    80%{
+		background-position: -280px -280px;
+    }
+    100%{
+        background-position: -320px -280px;
+    }
+}
+@-webkit-keyframes plate1 {
+    0%{
+        background-position: -160px -280px;
+    }
+    20%{
+		background-position: -160px -280px;
+    }
+    40%{
+		background-position: -200px -280px;
+    }
+    60%{
+        background-position: -240px -280px;
+    }
+    80%{
+		background-position: -280px -280px;
+    }
+    100%{
+        background-position: -320px -280px;
+    }
+}
+@keyframes plate2 {
+    0%{
+        background-position: -160px -320px;
+    }
+    20%{
+		background-position: -160px -320px;
+    }
+    40%{
+		background-position: -200px -320px;
+    }
+    60%{
+        background-position: -240px -320px;
+    }
+    80%{
+		background-position: -280px -320px;
+    }
+    100%{
+        background-position: -320px -320px;
+    }
+}
+@-webkit-keyframes plate2 {
+    0%{
+        background-position: -160px -320px;
+    }
+    20%{
+		background-position: -160px -320px;
+    }
+    40%{
+		background-position: -200px -320px;
+    }
+    60%{
+        background-position: -240px -320px;
+    }
+    80%{
+		background-position: -280px -320px;
+    }
+    100%{
+        background-position: -320px -320px;
+    }
+}
+.scaning.lm-plate0-bg {
+    animation: plate0 1s steps(1, start) infinite alternate;
+    -webkit-animation: plate0 1s steps(1, start) infinite alternate;
+}
+.scaning.lm-plate1-bg {
+    animation: plate1 1s steps(1, start) infinite alternate;
+    -webkit-animation: plate1 1s steps(1, start) infinite alternate;
+}
+.scaning.lm-plate7-bg {
+    animation: plate2 1s steps(1, start) infinite alternate;
+    -webkit-animation: plate2 1s steps(1, start) infinite alternate;
+}
+.scan-file-bg {
+	background-position: -40px -260px;
+}
+.fn-tag {
+	background-position: 0 -120px;
+}
+.fn-tag:hover {
+	background-position: -20px -120px;
+}
+/*format*/
+/*small*/
+.file-format-small-folder,
+.file-format-small- {
+	background-position: -80px -20px;
+}
+.file-format-small-psd,
+.file-format-small-ps {
+	background-position: -80px -180px;
+}
+.file-format-small-jpg {
+	background-position: -80px -140px;
+}
+.file-format-small-ai {
+	background-position: -80px -360px;
+}
+.file-format-small-cdr {
+	background-position: -80px -380px;
+}
+.file-format-small-jc1 {
+	background-position: -100px -20px;
+}
+.file-format-small-pdf {
+	background-position: -80px -120px;
+}
+.file-format-small-txt {
+	background-position: -80px -220px;
+}
+.file-format-small-bmp {
+	background-position: -80px -600px;
+}
+.file-format-small-png {
+	background-position: -80px -480px;
+}
+.file-format-small-tif,
+.file-format-small-tiff {
+	background-position: -80px -460px;
+}
+.file-format-small-gif {
+	background-position: -80px -440px;
+}
+.file-format-small-zip {
+	background-position: -80px -420px;
+}
+.file-format-small-msi,
+.file-format-small-exe {
+	background-position: -80px -520px;
+}
+.file-format-small-cab,
+.file-format-small-db,
+.file-format-small-ini,
+.file-format-small-dll,
+.file-format-small-log,
+.file-format-small-q3q {
+	background-position: -80px -160px;
+}
+/*big*/
+.file-format-big-folder,
+.file-format-big- {
+	background-position: 0 -36px;
+}
+.file-format-big-psd,
+.file-format-big-ps {
+	background-position: 0 -324px;
+}
+.file-format-big-jpg {
+	background-position: 0 -252px;
+}
+.file-format-big-ai {
+	background-position: -36px 0;
+}
+.file-format-big-cdr {
+	background-position: -36px -36px;
+}
+.file-format-big-jc1 {
+	background-position: -36px -540px;
+}
+.file-format-big-pdf {
+	background-position: 0 -216px;
+}
+.file-format-big-txt {
+	background-position: 0 -397px;
+}
+.file-format-big-bmp {
+	background-position: -36px -432px;
+}
+.file-format-big-png {
+	background-position: -36px -216px;
+}
+.file-format-big-tif,
+.file-format-big-tiff {
+	background-position: -36px -180px;
+}
+.file-format-big-gif {
+	background-position: -36px -144px;
+}
+.file-format-big-zip {
+	background-position: -36px -108px;
+}
+.file-format-big-msi,
+.file-format-big-exe {
+	background-position: -36px -288px;
+}
+.file-format-big-cab,
+.file-format-big-db,
+.file-format-big-ini,
+.file-format-big-dll,
+.file-format-big-log,
+.file-format-big-q3q {
+	background-position: 0 -288px;
+}
+
+.file-format-psd-bg {
+	background-position: 0 -500px;
+}
+.file-format-ai-bg {
+	background-position: -20px -500px;
+}
+.file-format-cdr-bg {
+	background-position: -40px -500px;
+}
+.file-format-jc1-bg {
+	background-position: -60px -500px;
+}
+.batch-edit-bg {
+	background-position: 0 -40px;
+}
+a:hover .batch-edit-bg {
+	background-position: -20px -40px;
+}
+li.msg-disabled a:hover .batch-edit-bg {
+	background-position: 0 -40px;
+}
+.immediately-scan-bg {
+	background-position: 0 -60px;
+}
+a:hover .immediately-scan-bg,
+li:hover .immediately-scan-bg {
+	background-position: -20px -60px;
+}
+li.msg-disabled a:hover .immediately-scan-bg {
+	background-position: 0 -60px;
+}
+.list-more-bg {
+	background-position: 0 -730px;
+}
+.list-more-bg2 {
+	background-position: 0 -720px;
+}
+.active > .list-more-bg2 {
+    background-position: 0 -730px;
+}
+body:not(.disable-hover) .sort-fb:hover .list-more-bg,
+body:not(.disable-hover) .nav-db .list-more-bg:hover,
+body:not(.disable-hover) .menu-fb:hover .list-more-bg,
+body:not(.disable-hover) .info-option .list-more-bg:hover {
+	background-position: -10px -730px;
+}
+.list-mode-bg {
+	background-position: 0 -180px;
+}
+body:not(.disable-hover) .display-mode:hover .list-mode-bg {
+	background-position: -20px -180px;
+}
+.thumbnail-mode-bg{
+	background-position: -40px -440px;
+}
+body:not(.disable-hover) .display-mode:hover .thumbnail-mode-bg {
+	background-position: -60px -440px;
+}
+.sb-mycomputer-bg {
+	background-position: -40px -220px;
+}
+.sb-desktop-bg {
+	background-position: -40px -200px;
+}
+.sb-file-bg {
+	background-position: -20px -280px;
+}
+.file-format-filter-bg {
+	background-position: 0 -160px;
+}
+.file-time-filter-bg {
+	background-position: 0 -100px;
+}
+.file-hue-filter-bg {
+	background-position: 0 -140px;
+}
+.scan-btn-bg {
+	background-position: -40px -340px;
+}
+.scan-btn-bg2 {
+	background-position: 0 -720px;
+}
+button:hover .scan-btn-bg2 {
+	background-position: -10px -720px;
+}
+.set-btn-bg {
+	background-position: 0 -320px;
+}
+body:not(.disable-hover) .set-btn-bg:hover {
+	cursor: pointer;
+	background-position: -20px -320px;
+}
+.pause-btn-bg {
+	background-position: -40px -300px;
+}
+button:hover .pause-btn-bg {
+	background-position: -40px -320px;
+}
+.stop-btn-bg {
+	background-position: -60px -300px;
+}
+button:hover .stop-btn-bg {
+	background-position: -60px -320px;
+}
+.nav-prev-bg {
+	background-position: -40px -360px;
+}
+.active.nav-prev-bg {
+	background-position: 0 -360px;
+}
+body:not(.disable-hover) .active.nav-prev-bg:hover {
+	background-position: -20px -360px;
+}
+.nav-next-bg {
+	background-position: -40px -380px;
+}
+.active.nav-next-bg {
+	background-position: 0px -380px;
+}
+body:not(.disable-hover) .active.nav-next-bg:hover {
+	background-position: -20px -380px;
+}
+.back-local-bg {
+	background-position: -60px -420px;
+}
+body:not(.disable-hover) .back-local-bg:hover {
+	background-position: -60px -400px;
+}
+
+.fn-close-bg {
+    background-position: 0 -300px;
+}
+.fn-close-bg:hover {
+	background-position: -20px -300px;
+}
+.fn-add-bg {
+	background-position: -40px -280px;
+}
+.nav-home-bg {
+	background-position: 0 -20px;
+}
+.nav-home-bg2,
+body:not(.disable-hover) .info-mode:hover .nav-home-bg {
+	background-position: -20px -20px;
+}
+.nav-search-bg {
+	background-position: 0 -100px;
+}
+.info-mode:hover .nav-search-bg {
+	background-position: -20px -100px;
+}
+.down-ul li:hover .nav-home-bg {
+	background-position: -60px -20px;
+}
+.size-less-bg {
+	background-position: -0 -400px;
+}
+body:not(.disable-hover) .size-less-bg:hover {
+	background-position: -20px -400px;
+}
+.size-less-bg.most-left-less {
+    background-position: -40px -400px;
+}
+.size-plus-bg {
+	background-position: -0 -420px;
+}
+body:not(.disable-hover) .size-plus-bg:hover {
+	background-position: -20px -420px;
+}
+.size-plus-bg.most-right-plus {
+	background-position: -40px -420px;
+}
+.size-silder-bg {
+	background-position: 0 -440px;
+}
+body:not(.disable-hover) .size-silder-bg:hover {
+	background-position: -20px -440px;
+}
+.host-more-bg {
+	background-position: -22px -480px;
+}
+.host-more:hover .host-more-bg {
+	background-position: -1px -480px;
+}
+.photo-img-bg {
+	background-position: -220px 0;
+}
+a:hover .photo-img-bg,
+.selected .photo-img-bg {
+	background-position: -240px 0;
+}
+.msg-session-bg {
+	background-position: -220px -20px;
+}
+a:hover .msg-session-bg,
+.selected .msg-session-bg {
+	background-position: -240px -20px;
+}
+.stsuccess.right:hover .shitu-select-img {
+    background-position: -152px -1714px;
+}
+.stsuccess.right:hover .shitu-select-sanjiao {
+    background-position: -252px -1710px;
+}
+.stdiv .stsuccess.right > i {
+    position: relative;
+    top: 3px;
+}
+.shitu-select-sanjiao {
+    height: 10px;
+    width: 10px;
+    background-position: -242px -1710px;
+}
+.shitu-select-img {
+    height: 25px;
+    width: 25px;
+    background-position: -122px -1714px;
+}
+
+.index-imgs {
+    background-image: url(../img/index_icons.png);
+    background-repeat: no-repeat;
+    display: inline-block;
+}
+.file-opt {
+	background-position: -60px -60px;
+}
+.pay-opt {
+   background-position: -100px -120px;
+}
+.download-opt {
+	background-position: -80px -100px;
+}
+.cw-b-open-file {
+	background-position: -220px -200px;
+}
+.cw-b-open-file:hover {
+	background-position: -240px -200px;
+}
+.cw-b-cut {
+	background-position: -220px -180px;
+}
+.cw-b-cut:hover {
+	background-position: -240px -180px;
+}
+.drag-bg-5 {
+  background-position: 0 -120px;
+}
+.drag-bg-6 {
+  background-position: -30px -120px;
+}
+.drag-bg-7 {
+  background-position: 0px -150px;
+}
+.drag-bg-8 {
+  background-position: -30px -150px;
+}
+.drag-bg-close {
+	background-position: 0 -90px;
+}
+/*识图*/
+.change-format-bg {
+   background-position: -100px -40px;
+display: inline-block;
+height: 20px;
+width: 20px;
+vertical-align: middle;
+}
+.change-format-bg1 {
+   background-position: -100px 0px;
+display: inline-block;
+height: 20px;
+width: 20px;
+vertical-align: middle;
+}
+.icon-select {
+    background-position: -25px -325px;
+}
+.icon-display-none {
+	background-position: -76px -747px;
+}
+.icon-25 {
+    width: 25px;
+    height: 25px;
+    background-image: url(../img/all-icons.png);
+    background-repeat: no-repeat;
+}
+.item-border-bg {
+    width: 14px;
+    height: 8px;
+    position: absolute;
+    top: -7px;
+    left: 50%;
+    margin-left: -7px;
+    background-image: url(../img/item-border-bg.png);
+    background-repeat: no-repeat;
+}
+.icon-tone-active1 {
+    width: 12px;
+    height: 12px;
+    background-position: -105px -24px;
+}
+.change-tone-bg {
+background-position: -80px -60px;
+display: inline-block;
+height: 20px;
+width: 20px;
+vertical-align: middle;
+}
+.icon-tone-active {
+    width: 12px;
+    height: 12px;
+  background-position: -105px -64px;
+}
+.file-list-icon {
+    width: 25px;
+    height: 25px;
+    background-image: url(../img/file-list-icons.png);
+    background-repeat: no-repeat;
+}
+.base-icon {
+    display: inline-block;
+    vertical-align: middle;
+    text-align: center;
+}
+
+.nav-backward {
+    background-position: -120px 0;
+}
+.nav-backward.active {
+	background-position: -90px 0;
+}
+.nav-backward.active:hover {
+	background-position: -60px 0;
+}
+
+.nav-ahead {
+	background-position: -120px -26px;
+}
+.nav-ahead.active {
+	background-position: -90px -26px;
+}
+.nav-ahead.active:hover {
+	background-position: -60px -26px;
+}
+
+.select-allfile-bg {
+	background-position: -60px -40px;
+}
+.active .select-allfile-bg {
+	background-position: -60px -60px;
+}
+.select-scanfile-bg {
+	background-position: -60px -80px;
+}
+.active .select-scanfile-bg {
+	background-position: -60px -100px;
+}
+.colstrs-bg{
+	background-position: 0 -226px;
+}
+.colstrs-bg:hover{
+	background-position: 0 -200px;
+}
+.colstrs-bgs{
+	background-position: 0 -252px;
+}
+.colstrs-bgs:hover{
+	background-position: 0 -278px;
+}
+.normal-img {
+    background-image: url(../img/normal.png);
+    background-repeat: no-repeat;
+}
+.abnormal-img {
+    background-image: url(../img/abnormal.png);
+    background-repeat: no-repeat;
+}
+.normal-bg {
+	background-position: -40px -260px;
+}
+.lt-bg1 {
+	background-position: 0 -120px;
+}
+.active .lt-bg1 {
+	background-position: 0 -100px;
+}
+.lt-bg2 {
+	background-position: -20px -120px;
+}
+.active .lt-bg2 {
+	background-position: -20px -100px;
+}
+.lt-bg3 {
+	background-position: -40px -120px;
+}
+.active .lt-bg3 {
+	background-position: -40px -100px;
+}
+.lt-bg4 {
+	background-position: -60px -120px;
+}
+.active .lt-bg4 {
+	background-position: -60px -100px;
+}
+.lt-bg5 {
+	background-position: -80px -120px;
+}
+.active .lt-bg5 {
+	background-position: -80px -100px;
+}
+.lt-bg6 {
+	background-position: -100px -120px;
+}
+.active .lt-bg6 {
+	background-position: -100px -100px;
+}
+.lt-bg7 {
+	background-position: -120px -120px;
+}
+.active .lt-bg7 {
+	background-position: -120px -100px;
+}
+.lt-bg8 {
+	background-position: -140px -120px;
+}
+.active .lt-bg8 {
+	background-position: -140px -100px;
+}
+.scan-statu-finish {
+	background-position: 0 -140px;
+}
+.scan-statu-start {
+	background-position: -20px -140px;
+}
+.scan-types-bg {
+	background-position: 0 -50px;
+}
+.active .scan-types-bg {
+	background-position: 0 0;
+}
+.scan-dels-bg {
+	background-position: -200px -50px;
+}
+.active .scan-dels-bg {
+	background-position: -300px 0;
+}
+.scan-has-bg {
+	background-position: -50px -50px;
+}
+.active .scan-has-bg {
+	background-position: -50px 0;
+}
+.scan-gener-bg {
+	background-position: -100px -50px;
+}
+.active .scan-gener-bg {
+    background-position: -100px 0;
+}
+.scan-update-bg {
+	background-position: -150px -50px;
+}
+.active .scan-update-bg {
+	background-position: -150px 0;
+}
+.result-bg {
+	background-position: -200px 0;
+}
+.scan-logo-bg {
+	background-position: -250px -50px;
+}
+.tip-JCH-bg {
+	background-position: -260px -120px;
+}
+.active .tip-JCH-bg {
+	background-position: -260px -100px;
+}
+.tip-INK-bg {
+	background-position: -240px -120px;
+}
+.active .tip-INK-bg {
+	background-position: -240px -100px;
+}
+.tip-GSWIN-bg {
+	background-position: -220px -120px;
+}
+.active .tip-GSWIN-bg {
+	background-position: -220px -100px;
+}
+.tip-PSD2JPG-bg {
+	background-position: -200px -120px;
+}
+.active .tip-PSD2JPG-bg {
+	background-position: -200px -100px;
+}
+.scan-ok-bg {
+	background-position: -250px 0;
+}
+.scan-ok-success {
+	background-position: -40px -140px;
+}
+.scan-ok-add {
+	background-position: -160px -100px;
+}
+.scan-ok-update {
+	background-position: -180px -120px;
+}
+.scan-ok-del {
+	background-position: -160px -120px;
+}
+.scan-ok-fail {
+	background-position: -180px -100px;
+}
+.scan-untreated-bg {
+	background-position: -100px -140px;
+}
+.files-num-bg {
+	background-position: -60px -140px;
+}
+.scan-runing-bg {
+	background-position: -80px -140px;
+}
+.page-bar .prev-btn {
+    background-position: 0 -160px;
+}
+.page-bar .next-btn {
+    background-position: -20px -160px;
+}
+.page-bar .active.prev-btn:hover {
+    background-position: -40px -160px;
+}
+.page-bar .active.next-btn:hover {
+    background-position: -60px -160px;
+}
+.lock-wait-bg {
+	background-position: -60px -140px;
+}
+.no-online-bg {
+	background-position: -60px -160px;
+}
+.search-loca-bg {
+	background-position: -120px 0;
+}
+.active > .search-loca-bg {
+	background-position: -120px -60px;
+}
+.search-ng-bg {
+	background-position: -120px -20px;
+}
+a:not(.active):hover .search-ng-bg {
+	background-position: -120px -20px;
+}
+.active > .search-ng-bg {
+	background-position: -120px -60px;
+}
+.change-shitu-bg {
+	background-position: -120px -100px;
+}
+.submit-shitu-bg {
+	background-position: -140px -100px;
+}
+.shitu-mode-close {
+	background-position: -120px -80px;
+}
+a:hover .shitu-mode-close {
+	background-position: -140px -80px;
+}
+.add-upload-img {
+	background-position: -140px -60px;
+}
+.shitu-upload-bg {
+	background-position: -140px -40px;
+}
+.scuuess-bg {
+	background-position: -80px -140px;
+}
+.fail-bg {
+	background-position: -100px -140px;
+}
+
+.label-folder-bg {
+	background-position: -80px 0;
+}

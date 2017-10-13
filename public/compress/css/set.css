@@ -1,0 +1,267 @@
+/* 容器 */
+#Lianty-Set{
+    position: relative;
+    width: 100%;
+    height: 100%;	
+}
+#Lianty-Set #jquery-accordion-menu{
+	display: block;
+    position: absolute;
+    top: 50px;
+    left: 0;
+    width: 200px;
+    height: 100%;
+	border-right: 1px solid #eee;
+    padding: 0;
+    overflow: hidden;   
+    background-color: #F5F5F7; 
+}
+#jquery-accordion-menu #menu{
+	width: 100%;
+	height: 100%;
+}
+#jquery-accordion-menu #menu .create-csf-btn{
+    top: 10px;
+    left: 140px;
+    cursor: pointer;
+}
+#Lianty-Set .body-opacity-layer, #Lianty-Set .main-opacity-layer{
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	background: #000;
+	opacity: 0.0;
+	display: none;
+}
+
+/* 左侧菜单区块 */
+#menu a{
+	overflow:hidden;
+	text-overflow:ellipsis;
+	-o-text-overflow:ellipsis;
+	white-space:nowrap;
+	width:100%;
+}
+/* 内容区块 */
+.app{
+	width: 100%;
+	height: 100%;
+	background: #FAFAFA;
+}
+.app > .top{
+	height: 49px;
+	line-height: 49px;
+	border-bottom: 1px solid #E1E1E1;
+}
+.main{
+	height: 100%;	
+    position: relative;
+    /*margin-left: 200px;*/
+}
+.main_container{
+	height: 100%;
+	padding: 0 30px 20px 30px;
+}
+.bottom-line {
+	border-bottom: 1px solid #E1e1E1;
+}
+.main .set-other, .main .set-common{
+	height: 100%;
+	position: relative;
+}
+.set-common .common-list{
+    padding: 20px 30px 0px 30px;
+}
+
+
+/* title */
+.title-bar{
+	color: #666;
+	line-height: 26px;
+	padding: 15px 20px;
+	font-weight: 700;
+	border-bottom: 1px solid #e1e1e1;
+}
+.title-bar .set-back-bg{
+	margin-right: 10px;
+}
+.title-bar .left-title{
+    /*padding-left: 35px;*/
+}
+/* set-other */
+.set-other .main_container{
+    margin: 0 20px;
+}
+.set-other .title-bar .set-back-bg{
+    margin-right: 10px;
+}
+.item-title {
+	margin-bottom: 20px;
+    font-size: 16px;
+    font-weight: 700;
+    color: #333;
+}
+.io-item {
+	margin-top: 20px;
+}
+.io-item > p,
+.io-item .con-line {
+	margin-top: 15px;
+}
+.io-item .path-text{
+	color: #666;
+	font-size: 14px;
+	display: inline-block;	
+}
+.io-item .abtn{
+	width: 70px;
+	height: 24px;
+	border: 1px solid #E1E1E1;
+	background: #FFF;
+	display: inline-block;
+	text-align: center;
+	line-height: 24px;
+	border-radius: 3px;
+	color: #666;
+	font-size: 12px;
+	margin-left: 15px;
+}
+.io-item .abtn:hover{
+	border-color: #0C73C2;
+	color: #0C73C2;
+}
+.io-item .sel-time {
+	position: relative;
+	width: 150px;
+	height: 26px;
+	border: 1px solid #E1E1E1;
+	color: #666;
+	margin-left: 15px;
+}
+.io-item .sel-time .drop-down-bg {
+	top: 3px;
+	right: 5px;	
+}
+.sel-time .text-con {
+	display: block;
+	padding-left: 10px;
+}
+.sel-time .text-con:after {
+	content: '';
+	width: 150px;
+	height: 26px;
+	line-height: 26px;
+}
+.sel-time .sub-time {
+	display: none;
+	z-index: 1;
+	position: absolute;
+	top: 26px;
+	left: 0;
+	width: 100%;
+	padding: 5px 0;
+	border: 1px solid #E1E1E1;
+	border-radius: 2px;
+	margin-left: -1px;
+	background: #FFF; 
+}
+.sel-time .sub-time li {
+	padding: 5px 10px;
+	cursor: pointer;
+}
+.io-item .show-time {
+    margin-left: 25px;
+    color: #666;
+}
+.sel-time .sub-time li:hover {
+	background: #E1E1E1;
+	color: #333;
+}
+.io-top {
+	color: #999;
+}
+.sc-files-type .default-button {
+    width: 60px;
+    height: 26px;
+    border-radius: 2px;
+    margin-right: 10px;
+}
+.sc-files-type .default-button:hover {
+	border-color: #0C73C2;
+	color: #0C73C2;
+	background: #FFF;
+}
+.sc-files-type .io-item {
+	margin-top: 10px;
+}
+.sc-general .sp-text{
+	margin-left: 10px;
+	display: inline-block;
+	font-size: 14px;
+	vertical-align: top;    
+}
+.sc-general .p-1{
+	margin-bottom: 15px;
+}
+.zm-order {
+    
+}
+.zm-order .zm-first {
+    width: 20px;
+    height: 30px;
+    color: #666;
+    font-size: 14px;
+}
+.zm-order .type-list {
+	width: 150px;
+    margin: 0 10px 0 0;
+}
+.zm-order .type-list > li {
+	width: 60px;
+	height: 26px;
+	margin: 0 5px 5px 0;
+	color: #666;
+	border: 2px solid #E6E6E6;
+	background: #E6E6E6;
+	cursor: pointer;
+}
+.zm-order .type-list > li.active {
+	color: #FFF;
+	background: #43BFE3;
+}
+.r-switch {
+	display: flex;
+	align-items: center;
+	width: 36px;
+	height: 20px;
+	padding: 0 2px;
+	background: #1EC86E;
+	border-radius: 10px;
+	color: #fff;
+	cursor: pointer;
+	font-size: 12px;	
+}
+.r-switch.close {
+	background: #CCC;
+}
+.r-switch.open .rs-btn {
+	order: 1;
+}
+.r-switch.close .rs-text {
+	order: 2;
+	text-align: right;
+	padding-right: 5px;
+}
+.r-switch .rs-text {
+    flex: 1 1 auto;
+    padding-left: 5px;
+}
+.r-switch .rs-btn {
+	flex: 0 0 auto;
+	width: 14px;
+	height: 14px;
+	background: #FFF;
+	border-radius: 10px;
+}
+

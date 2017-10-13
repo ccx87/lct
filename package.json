@@ -1,0 +1,51 @@
+{
+  "name": "app",
+  "version": "0.0.1",
+  "main": "index.js",
+  "scripts": {
+    "start": "set NODE_ENV=production&&npm run start:prod",
+    "start:dev": "webpack-dev-server --inline --content-base public/ --history-api-fallback",
+    "start:prod": "webpack",
+    "start:server": "webpack && node server.js"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "classnames": "^2.1.2",
+    "compression": "^1.6.1",
+    "if-env": "^1.0.0",
+    "immutable": "^3.8.1",
+    "isomorphic-fetch": "^2.2.1",
+    "lodash.assign": "^4.2.0",
+    "pure-render-decorator": "^1.2.1",
+    "react": "^0.14.8",
+    "react-addons-perf": "^0.14.8",
+    "react-addons-test-utils": "^0.14.0",
+    "react-dom": "^0.14.8",
+    "react-immutable-render-mixin": "^0.9.7",
+    "react-lazyload": "^2.2.7",
+    "react-redux": "^4.4.5",
+    "react-router": "^2.0.0",
+    "redux": "^3.5.2",
+    "redux-thunk": "^2.1.0"
+  },
+  "devDependencies": {
+    "babel-core": "^5.6.18",
+    "babel-loader": "^5.1.4",
+    "babel-plugin-object-assign": "^1.2.1",
+    "babel-plugin-react-transform": "^1.1.0",
+    "babel-preset-es2015": "^6.14.0",
+    "babel-preset-react": "^6.11.1",
+    "expect": "^1.8.0",
+    "express": "^4.14.0",
+    "extract-text-webpack-plugin": "^2.1.0",
+    "http-server": "^0.8.5",
+    "jsdom": "^5.6.1",
+    "json-loader": "^0.5.3",
+    "mocha": "^2.2.5",
+    "react-addons-test-utils": "^0.14.0",
+    "react-transform-hmr": "^1.0.0",
+    "redux-logger": "^2.0.1",
+    "webpack": "^1.12.13",
+    "webpack-dev-server": "^1.14.1"
+  }
+}
